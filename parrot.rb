@@ -1,6 +1,6 @@
 def parrot(arg1="Squawk!",arg2="Pretty Bird!")
   "#{arg1}"
-  return"{arg1}"
+  #return"{arg1}"
   end
   
 #def parrot(arg1="Squawk!",arg2="Pretty Bird!")
