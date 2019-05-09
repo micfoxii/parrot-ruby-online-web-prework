@@ -2,7 +2,7 @@ def parrot(arg1="Squawk!",arg2="Pretty Bird!")
   "#{arg1}"
   end
   
-  if parrot==arg1
+  if "#{arg1}"
     puts "Squawk!"
   else
     puts "Pretty Bird!"
