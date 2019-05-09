@@ -1,6 +1,8 @@
 def parrot(arg1="Squawk!",arg2="Pretty Bird!")
   if="#{arg1}"
-    puts
+    puts "Squawk!"
+  else
+   puts "Pretty Bird!"
   end
   
 # if "#{arg1}"
